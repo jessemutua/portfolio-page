@@ -7,3 +7,7 @@ body{
     border: darkred;
 
 }
+.important{
+    font-style: italic;
+    color: tomato;
+}
