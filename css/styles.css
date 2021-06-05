@@ -14,3 +14,8 @@ body{
 .me{
     font: 1em sans-serif;
 }
+@media screen and (min-width:480px) and (max-width:780px {
+    background color: black;
+    
+    
+}
