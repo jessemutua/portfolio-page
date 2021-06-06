@@ -16,7 +16,7 @@ Global setup:
   Download and install Git
   git config --global user.email EMAIL_ADDRESS
       
-Next steps:
+### Next steps:
   mkdir PROJECT_NAME
   cd PROJECT_NAME
   git init
@@ -26,3 +26,6 @@ Next steps:
   git remote add origin git@github.com:USER/PROJECT_NAME.git
   git push origin master
 
+
+### live link  
+url"[https://jessemutua.github.io/portfolio-page/]"
