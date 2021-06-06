@@ -14,3 +14,6 @@ body{
 .me{
     font-family: sans-serif;
 }
+img{
+    float: left;
+}
